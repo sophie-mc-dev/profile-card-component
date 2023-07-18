@@ -33,7 +33,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-solution-with-html-and-scss-V7Nq0RzX1A)
 - Live Site URL: [GitHub Pages](https://sophie-mc-dev.github.io/profile-card-component/)
 
 
