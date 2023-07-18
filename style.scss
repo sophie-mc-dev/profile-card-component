@@ -25,8 +25,8 @@ body {
     background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
     background-position:
-        right 40vw bottom 50vh,
-        left 45vw top 50vh;
+        right 50vw bottom 40vh,
+        left 45vw top 55vh;
     background-color: $dark-cyan;
 
     font-family: "Kumbh Sans", sans-serif;
@@ -119,6 +119,6 @@ main {
     body {
         background-position:
             right 40vw bottom 50vh,
-            left 30vw top 50vh;
+            left 40vw top 45vh;
     }
 }

@@ -16,7 +16,7 @@ body {
   min-height: 100vh;
   background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
   background-repeat: no-repeat, no-repeat;
-  background-position: right 40vw bottom 50vh, left 45vw top 50vh;
+  background-position: right 50vw bottom 40vh, left 45vw top 55vh;
   background-color: hsl(185, 75%, 39%);
   font-family: "Kumbh Sans", sans-serif;
 }
@@ -96,6 +96,6 @@ main {
 
 @media (width <= 600px) {
   body {
-    background-position: right 40vw bottom 50vh, left 30vw top 50vh;
+    background-position: right 40vw bottom 50vh, left 40vw top 45vh;
   }
 }/*# sourceMappingURL=style.css.map */
